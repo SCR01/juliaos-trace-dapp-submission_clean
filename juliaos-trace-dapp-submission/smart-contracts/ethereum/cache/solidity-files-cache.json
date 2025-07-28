@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Downloads\\juliaos-trace-dapp-submission_clean\\juliaos-trace-dapp-submission\\smart-contracts\\ethereum\\contracts\\TraceContract.sol": {
+      "lastModificationDate": 1753744954114,
+      "contentHash": "31f2311931c9483793666396ba27e5c1",
+      "sourceName": "contracts/TraceContract.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TraceContract"
+      ]
+    }
+  }
+}
